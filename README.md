@@ -1,5 +1,5 @@
 # TikTok-API (19.1.3) [WORKING AS OF AUGUST 2022]
-TikTok API to login, register, comment, like, follow, unfollow
+TikTok API to login, register, comment, like, follow, unfollow. Developed by my partner.
 
 https://www.youtube.com/watch?v=8rQXuZxgu4w
 
