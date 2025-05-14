@@ -2,7 +2,7 @@
 TikTok API to login, register, comment, like, follow, unfollow. Developed by my partner.
 
 https://www.youtube.com/watch?v=8rQXuZxgu4w
-
+T.ME/SMPL_GG
 
 Full Api 7.500 USD  
 
@@ -23,4 +23,4 @@ IP - API 500 USD
 X - Ladon / X -Argus 6.250 USD
 
 
-If you are interested in purchasing then please message me on Discord (vex#3333) or on Telegram (https://t.me/vexingly)
+If you are interested in purchasing then please message me on Discord (vex442) or on Telegram (https://t.me/vexers)
